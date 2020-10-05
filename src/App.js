@@ -1,10 +1,13 @@
 import React from 'react';
+import HOME_PAGE from './pages/HOME_PAGE';
+
+
 
 
 function App() {
   return (
-    <div className="text-base">
-      Free Access Education
+    <div>
+      <HOME_PAGE />
     </div>
   );
 }
