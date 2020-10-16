@@ -2,7 +2,7 @@ import React from 'react'
 
 function PopularContent () {
     return (
-<div className="pt-24">
+<div className="pt-24 pb-24">
     <div className="container mx-auto">
         <div className="flex flex-row justify-between">
             <h2 className=" text-4xl font-extrabold text-red-500 leading-10">
