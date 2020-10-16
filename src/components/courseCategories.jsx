@@ -5,7 +5,7 @@ function CourseCategories() {
 <div className="pt-24 pb-32" style={{ backgroundColor: "#EAE7DC", width: "auto" }}>
     <div className="container mx-auto flex flex-row items-center">
         <div>
-            <h2 className=" text-4xl font-extrabold text-red-500 leading-10">Courses<br/>
+            <h2 className=" text-4xl font-extrabold text-red-500 leading-10">Content<br/>
                 Categories</h2>
             <div className=" max-w-xs mb-10 mt-8 text-lg">Nunc vel risus commodo vivera maecenas. Netus et malesuada fames ac turpis egestas sed tempus.</div>
             <div className="inline-block mt-10">
