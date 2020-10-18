@@ -66,7 +66,7 @@ function FooterPage () {
                     </div>
                 </div>
             </div>
-            <div className="text-xs mt-5 text-red-500 font-semibold ml-5 border-t border-gray-400 pt-3">@ 2020 by Tamale Simon Peter</div>
+            <div className="text-xs mt-5 text-red-500 font-semibold ml-5 pt-3">@ 2020 by Tamale Simon Peter</div>
         </div>
     </div>
 </div>
